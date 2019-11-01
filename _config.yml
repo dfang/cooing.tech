@@ -29,8 +29,8 @@ more_vert:
     name: EndlessDream.Games
     link: endlessdream.games
 
-disqus: false
-disqus_shortname: 'gdgmanagua'
+disqus: true
+disqus_shortname: 'certekim'
 
 # Build settings
 markdown: kramdown
