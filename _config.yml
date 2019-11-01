@@ -1,19 +1,17 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: Cooing Tech Blog
+email: certekim@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  CooingTech aka Cool In Technologies
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
-facebook_username: jekyll
-google_play: 'GDGX'
-google_plus_com: '109485346959707049693'  # Community link
-google_plus_per: '+GDGManagua'  #Personal link
-facebook_app_id: 12345
+url: "http://cooing.tech" # the base hostname & protocol for your site
+twitter_username: certekim
+github_username:  CerteKim
+facebook_username: 
+google_play: 
+google_plus_com:   # Community link
+google_plus_per:   #Personal link
+facebook_app_id: 
 
 # Layout settings
 header_type: default  # values [ drawer, default ]
@@ -22,16 +20,16 @@ pagination_type: default  # values [ ops, default ]
 
 more_vert:
   option1:
-    name: Cool Option 1
-    link: www.myawesomelink.com
+    name: GitHub
+    link: gihub.com/CerteKim
   option2:
-    name: Cool Option 2
-    link: www.myawesomelink.com
+    name: Certe.Kim
+    link: certe.kim
   option3:
-    name: Cool Option 3
-    link: www.myawesomelink.com
+    name: EndlessDream.Games
+    link: endlessdream.games
 
-disqus: true
+disqus: false
 disqus_shortname: 'gdgmanagua'
 
 # Build settings
