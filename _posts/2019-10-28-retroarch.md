@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Linux 的十八般武艺"
-date:   2019-10-28 03:43:50
+date:   2019-10-28 03:43:50 +0800
 categories: Linux
 author: Certe Kim
 image: https://cooing.tech/IMG_20191028_201127.webp

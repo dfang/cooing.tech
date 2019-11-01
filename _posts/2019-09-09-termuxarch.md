@@ -1,7 +1,7 @@
 ---
 layout:	post
 title:	"Termux Arch"
-date: 2019-09-09 00:03:03
+date: 2019-09-09 00:03:03 +0800
 categories: linux
 author: Certe Kim
 image: https://raw.githubusercontent.com/TermuxArch/imgsTermuxArch/master/IMG_20171019_190414.jpg
