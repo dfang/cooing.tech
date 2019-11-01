@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linux 的十八般武艺"
+title:  "Linux 的十八般武艺"
 date:   2019-10-28 03:43:50
 categories: Linux
 author: Certe Kim
