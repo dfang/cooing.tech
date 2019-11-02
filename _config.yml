@@ -21,13 +21,13 @@ pagination_type: default  # values [ ops, default ]
 more_vert:
   option1:
     name: GitHub
-    link: gihub.com/CerteKim
+    link: http://github.com/CerteKim
   option2:
     name: Certe.Kim
-    link: certe.kim
+    link: http://certe.kim
   option3:
     name: EndlessDream.Games
-    link: endlessdream.games
+    link: http://endlessdream.games
 
 disqus: true
 disqus_shortname: 'cooingtech'
