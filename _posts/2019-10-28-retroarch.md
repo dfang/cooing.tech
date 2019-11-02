@@ -4,7 +4,7 @@ title:  "Linux 的十八般武艺"
 date:   2019-10-28 03:43:50 +0800
 categories: Linux
 author: Certe Kim
-image: https://certe.kim/img/IMG_20191028_201127.webp
+image: https://certe.kim/img/retroarch.webp
 ---
 
 ### Linux的十八般武艺 课程报告
